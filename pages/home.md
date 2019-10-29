@@ -1,9 +1,11 @@
 ---
 title: Home
 date: 2016-01-01T00:00:00.000Z
-permalink: /
+permalink: /home
 navtitle: Home
 tags:
   - nav
 ---
-# HOMEEEE
+This is the content for the home page.
+
+You can basically put anything here
