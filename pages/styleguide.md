@@ -5,7 +5,7 @@ title: Stylesheet
 permalink: /styleguide/index.html
 templateEngineOverride: njk,md
 ---
-/* Layout adapted (with gratitude) from https://github.com/pborenstein */
+ <!-- Layout adapted (with gratitude) from https://github.com/pborenstein  -->
 
 # Heading 1
 
